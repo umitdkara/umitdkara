@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/umitdk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umitdk1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umitdkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umitdkara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umitdkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umit-kara" height="30" width="40" /></a>
 <a href="https://kaggle.com/umitdkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="umitdkara" height="30" width="40" /></a>
-<a href="https://medium.com/@umitdkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umitdkara" height="30" width="40" /></a>
+<a href="https://medium.com/@umitdkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umitkara1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
